@@ -58,6 +58,28 @@
             }
         }
     </script>
+    
+   <style>
+        body {
+            background-image: url('./includes/assets/bg.jpg') !important;
+            background-size: cover !important;
+            background-position: center center !important;
+            background-repeat: no-repeat !important;
+            background-attachment: fixed !important;
+        }
+
+        /* إزالة اللون الصلب من القسم الثاني لتظهر الخلفية تحته */
+        #exploit-main-screen {
+            background-color: transparent !important;
+        }
+
+        /* جعل الصناديق (القوائم) شبه شفافة لتبرز الخلفية مع بقاء النص مقروءاً */
+        #choosejb-initial,
+        #exploit-status-panel,
+        #payloadsSection {
+            background-color: rgba(31, 41, 55, 0.82) !important;
+        }
+    </style>
 </head>
 
 <body class="bg-gray-900 text-white">
