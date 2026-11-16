@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# v2.6
+# v4.1
 # Generated on 2026-11-03
 
 CACHE:
@@ -85,6 +85,7 @@ CACHE:
 ../../../includes/assets/icons/cat-paw.svg
 ../../../includes/assets/icons/peeking-cat.svg
 ../../../includes/assets/icons/cat-face.svg
+../../../includes/assets/bg.jpg
 ../../../src/psfree-lapse/alert.mjs
 ../../../src/psfree-lapse/config.mjs
 ../../../src/psfree-lapse/psfree.mjs
