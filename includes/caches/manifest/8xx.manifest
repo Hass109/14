@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# v4
+# v4.1
 # Generated on 2026-11-03
 
 CACHE:
@@ -12,6 +12,7 @@ CACHE:
 ../../../includes/assets/icons/peeking-cat.svg
 ../../../includes/assets/icons/cat-face.svg
 ../../../includes/assets/icons/webkitty.svg
+../../../includes/assets/bg.jpg
 ../../../includes/css/colors/catppuccino.css
 ../../../includes/css/colors/default.css
 ../../../includes/css/colors/vibrant.css
