@@ -1,5 +1,5 @@
 CACHE MANIFEST
-# v2.4
+# v4.1
 # Generated on 2026-11-03
 
 CACHE:
@@ -83,6 +83,7 @@ CACHE:
 ../../../includes/assets/icons/peeking-cat.svg
 ../../../includes/assets/icons/cat-face.svg
 ../../../includes/assets/icons/favicon.ico
+../../../includes/assets/bg.jpg
 ../../../src/cssfontface/workers.js
 ../../../src/cssfontface/lapse.js
 ../../../src/cssfontface/loader.js
